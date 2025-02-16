@@ -1,3 +1,7 @@
+# Git
+.git
+.gitignore
+
 # Python
 __pycache__/
 *.py[cod]
@@ -41,3 +45,4 @@ Thumbs.db
 *.log
 test_images/
 uploaded_images/
+README.md

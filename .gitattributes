@@ -1,0 +1,7 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.py diff=python
+secret.txt export-ignore
+* text=auto
